@@ -1,1 +1,11 @@
 What makes you excited about programming?
+
+I get to build virtually what ever i want. 
+
+What is the factorial of 4? 
+
+24 
+
+What is the factorial of 5? 
+
+120
